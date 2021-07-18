@@ -1,6 +1,10 @@
-### Hi there 👋
+<img width="1000" alt="profile" src="https://user-images.githubusercontent.com/60080580/126079153-06fe5266-42d5-4a86-a126-5e12d73d0d20.jpg">
+
+
 
 <!--
+### Hi there 👋
+
 **nicklegan/nicklegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
