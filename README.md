@@ -1,5 +1,6 @@
 | Date    | Project                                                                                                                                                           |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05 | [GitHub Pull Request Naming Policy Action](https://github.com/marketplace/actions/github-pull-request-naming-policy-action)                                       |
 | 2022-12 | [GitHub Repository Transfer Utility](https://github.com/nicklegan/github-repo-transfer-utility)                                                                   |
 | 2022-11 | [GitHub Enterprise User Totals Report Action](https://github.com/marketplace/actions/github-enterprise-user-totals-report-action)                                 |
 | 2022-06 | [GitHub Repository Branch Naming Policy Action](https://github.com/marketplace/actions/github-repo-branch-naming-policy-action)                                   |
